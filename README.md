@@ -88,5 +88,77 @@ A simple quiz application that asks multiple-choice questions and calculates the
 # 🛠️ How to Run the Programs
 
 ## 🔹 Compile the Program
+
 ```bash
 g++ filename.cpp -o output
+```
+
+## 🔹 Run the Program
+
+```bash
+./output
+```
+
+### Example
+
+```bash
+g++ Adventure_game.cpp -o game
+./game
+```
+
+---
+
+# 📚 Skills Learned
+
+- C++ Programming Fundamentals
+- Object-Oriented Thinking
+- Logic Building
+- Console Application Development
+- Problem Solving
+- Debugging & Error Handling
+
+---
+
+# 🎯 Internship Outcome
+
+Through this internship, I gained practical experience in:
+- Writing optimized C++ programs
+- Building interactive console applications
+- Implementing real-world programming logic
+- Improving coding efficiency and debugging skills
+
+---
+
+# 📂 Repository Structure
+
+```bash
+📁 Pinnacle-Labs-Cpp-Internship
+│
+├── ATM_Simulator.cpp
+├── Adventure_game.cpp
+├── Quiz_Application.cpp
+├── LICENSE
+└── README.md
+```
+
+---
+
+# 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+# 🙌 Acknowledgement
+
+Special thanks to **Pinnacle Labs** for providing this opportunity to enhance my programming skills through practical project development.
+
+---
+
+# 👨‍💻 Author
+
+## MRIDUL SHARMA
+
+GitHub: **@Mridulsharma2028**
+
+---
